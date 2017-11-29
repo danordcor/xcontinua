@@ -1,1 +1,1 @@
-web: gunicorn xcontinua.wsgi --log-file 
+web: gunicorn xcontinua.wsgi
