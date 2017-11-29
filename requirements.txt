@@ -1,5 +1,7 @@
-Django
-dj-database-url
-dj-static
-gunicorn
-whitenoise
+dj-database-url==0.4.2
+Django==1.10.5
+django-reversion==2.0.8
+djangorestframework==3.5.4
+gunicorn==19.6.0
+psycopg2==2.6.2
+whitenoise==3.3.0
